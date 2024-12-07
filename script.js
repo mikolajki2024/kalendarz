@@ -222,3 +222,29 @@ $(function() {
 
 	init();
 });
+function daysUntilChristmas() {
+    const today = new Date(); 
+    const currentYear = today.getFullYear();
+    const christmasDate = new Date(currentYear, 11, 25); 
+
+    
+    if (today > christmasDate) {
+        christmasDate.setFullYear(currentYear + 1);
+    }
+
+    
+    const timeDifference = christmasDate - today;
+
+    
+    return Math.ceil(timeDifference / (1000 * 60 * 60 * 24));
+}
+
+
+function updateCountdown() {
+    const countdownElement = document.getElementById('countdown');
+    const days = daysUntilChristmas();
+    countdownElement.textContent = `Pozostało ${days} dni do Świąt Bożego Narodzenia! 🎅`;
+}
+
+
+updateCountdown();
