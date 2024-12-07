@@ -1244,6 +1244,7 @@ h2 {
   -ms-transform: rotate(-45deg);
   -webkit-transform: rotate(-45deg);
   transform: rotate(-45deg);
+  color:aquamarine;
 }
 .day-text .char32 {
   -moz-transform: rotate(-42.0967741935deg);
@@ -1251,6 +1252,7 @@ h2 {
   -ms-transform: rotate(-42.0967741935deg);
   -webkit-transform: rotate(-42.0967741935deg);
   transform: rotate(-42.0967741935deg);
+  color:aquamarine;
 }
 .day-text .char33 {
   -moz-transform: rotate(-39.1935483871deg);
@@ -1300,6 +1302,7 @@ h2 {
   -ms-transform: rotate(-21.7741935484deg);
   -webkit-transform: rotate(-21.7741935484deg);
   transform: rotate(-21.7741935484deg);
+  
 }
 .day-text .char40 {
   -moz-transform: rotate(-18.8709677419deg);
@@ -1307,6 +1310,7 @@ h2 {
   -ms-transform: rotate(-18.8709677419deg);
   -webkit-transform: rotate(-18.8709677419deg);
   transform: rotate(-18.8709677419deg);
+  
 }
 .day-text .char41 {
   -moz-transform: rotate(-15.9677419355deg);
@@ -1328,6 +1332,7 @@ h2 {
   -ms-transform: rotate(-10.1612903226deg);
   -webkit-transform: rotate(-10.1612903226deg);
   transform: rotate(-10.1612903226deg);
+  color:#FFCC00;
 }
 .day-text .char44 {
   -moz-transform: rotate(-7.2580645161deg);
@@ -1335,6 +1340,7 @@ h2 {
   -ms-transform: rotate(-7.2580645161deg);
   -webkit-transform: rotate(-7.2580645161deg);
   transform: rotate(-7.2580645161deg);
+  color:#FFCC00;
 }
 .day-text .char45 {
   -moz-transform: rotate(-4.3548387097deg);
@@ -1349,6 +1355,7 @@ h2 {
   -ms-transform: rotate(-1.4516129032deg);
   -webkit-transform: rotate(-1.4516129032deg);
   transform: rotate(-1.4516129032deg);
+  color:tomato;
 }
 .day-text .char47 {
   -moz-transform: rotate(1.4516129032deg);
@@ -1356,6 +1363,7 @@ h2 {
   -ms-transform: rotate(1.4516129032deg);
   -webkit-transform: rotate(1.4516129032deg);
   transform: rotate(1.4516129032deg);
+  color:tomato;
 }
 .day-text .char48 {
   -moz-transform: rotate(4.3548387097deg);
@@ -1419,6 +1427,7 @@ h2 {
   -ms-transform: rotate(27.5806451613deg);
   -webkit-transform: rotate(27.5806451613deg);
   transform: rotate(27.5806451613deg);
+
 }
 .day-text .char57 {
   -moz-transform: rotate(30.4838709677deg);
@@ -1433,6 +1442,7 @@ h2 {
   -ms-transform: rotate(33.3870967742deg);
   -webkit-transform: rotate(33.3870967742deg);
   transform: rotate(33.3870967742deg);
+  color:red;
 }
 .day-text .char59 {
   -moz-transform: rotate(36.2903225806deg);
@@ -1440,6 +1450,7 @@ h2 {
   -ms-transform: rotate(36.2903225806deg);
   -webkit-transform: rotate(36.2903225806deg);
   transform: rotate(36.2903225806deg);
+  color:red;
 }
 .day-text .char60 {
   -moz-transform: rotate(39.1935483871deg);
@@ -1454,6 +1465,7 @@ h2 {
   -ms-transform: rotate(42.0967741935deg);
   -webkit-transform: rotate(42.0967741935deg);
   transform: rotate(42.0967741935deg);
+  color:red;
 }
 .day-text .char62 {
   -moz-transform: rotate(45deg);
@@ -1461,6 +1473,7 @@ h2 {
   -ms-transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
   transform: rotate(45deg);
+  color:red;
 }
 .day-text .char63 {
   -moz-transform: rotate(47.9032258065deg);
@@ -1475,6 +1488,7 @@ h2 {
   -ms-transform: rotate(50.8064516129deg);
   -webkit-transform: rotate(50.8064516129deg);
   transform: rotate(50.8064516129deg);
+  color:red;
 }
 .day-text .char65 {
   -moz-transform: rotate(53.7096774194deg);
@@ -1482,6 +1496,7 @@ h2 {
   -ms-transform: rotate(53.7096774194deg);
   -webkit-transform: rotate(53.7096774194deg);
   transform: rotate(53.7096774194deg);
+  color:red;
 }
 .day-text .char66 {
   -moz-transform: rotate(56.6129032258deg);
@@ -1496,6 +1511,7 @@ h2 {
   -ms-transform: rotate(59.5161290323deg);
   -webkit-transform: rotate(59.5161290323deg);
   transform: rotate(59.5161290323deg);
+  color:red;
 }
 .day-text .char68 {
   -moz-transform: rotate(62.4193548387deg);
@@ -1503,6 +1519,7 @@ h2 {
   -ms-transform: rotate(62.4193548387deg);
   -webkit-transform: rotate(62.4193548387deg);
   transform: rotate(62.4193548387deg);
+  color:red;
 }
 .day-text .char69 {
   -moz-transform: rotate(65.3225806452deg);
@@ -1517,6 +1534,7 @@ h2 {
   -ms-transform: rotate(68.2258064516deg);
   -webkit-transform: rotate(68.2258064516deg);
   transform: rotate(68.2258064516deg);
+  color:red;
 }
 .day-text .char71 {
   -moz-transform: rotate(71.1290322581deg);
@@ -1524,6 +1542,7 @@ h2 {
   -ms-transform: rotate(71.1290322581deg);
   -webkit-transform: rotate(71.1290322581deg);
   transform: rotate(71.1290322581deg);
+  color:red;
 }
 .day-text .char72 {
   -moz-transform: rotate(74.0322580645deg);
@@ -1538,6 +1557,7 @@ h2 {
   -ms-transform: rotate(76.935483871deg);
   -webkit-transform: rotate(76.935483871deg);
   transform: rotate(76.935483871deg);
+  color:red;
 }
 .day-text .char74 {
   -moz-transform: rotate(79.8387096774deg);
@@ -1545,6 +1565,7 @@ h2 {
   -ms-transform: rotate(79.8387096774deg);
   -webkit-transform: rotate(79.8387096774deg);
   transform: rotate(79.8387096774deg);
+  color:red;
 }
 .day-text .char75 {
   -moz-transform: rotate(82.7419354839deg);
@@ -1559,6 +1580,7 @@ h2 {
   -ms-transform: rotate(85.6451612903deg);
   -webkit-transform: rotate(85.6451612903deg);
   transform: rotate(85.6451612903deg);
+  color:red;
 }
 .day-text .char77 {
   -moz-transform: rotate(88.5483870968deg);
@@ -1566,6 +1588,7 @@ h2 {
   -ms-transform: rotate(88.5483870968deg);
   -webkit-transform: rotate(88.5483870968deg);
   transform: rotate(88.5483870968deg);
+  color:red;
 }
 .day-text .char78 {
   -moz-transform: rotate(91.4516129032deg);
@@ -1573,6 +1596,7 @@ h2 {
   -ms-transform: rotate(91.4516129032deg);
   -webkit-transform: rotate(91.4516129032deg);
   transform: rotate(91.4516129032deg);
+  color:red;
 }
 .day-text .char79 {
   -moz-transform: rotate(94.3548387097deg);
@@ -1580,6 +1604,7 @@ h2 {
   -ms-transform: rotate(94.3548387097deg);
   -webkit-transform: rotate(94.3548387097deg);
   transform: rotate(94.3548387097deg);
+  color:red;
 }
 .day-text .char80 {
   -moz-transform: rotate(97.2580645161deg);
@@ -1587,6 +1612,7 @@ h2 {
   -ms-transform: rotate(97.2580645161deg);
   -webkit-transform: rotate(97.2580645161deg);
   transform: rotate(97.2580645161deg);
+  color:red;
 }
 .day-text .char81 {
   -moz-transform: rotate(100.1612903226deg);
@@ -1601,6 +1627,7 @@ h2 {
   -ms-transform: rotate(103.064516129deg);
   -webkit-transform: rotate(103.064516129deg);
   transform: rotate(103.064516129deg);
+  color:red;
 }
 .day-text .char83 {
   -moz-transform: rotate(105.9677419355deg);
@@ -1608,6 +1635,7 @@ h2 {
   -ms-transform: rotate(105.9677419355deg);
   -webkit-transform: rotate(105.9677419355deg);
   transform: rotate(105.9677419355deg);
+  color:red;
 }
 .day-text .char84 {
   -moz-transform: rotate(108.8709677419deg);
@@ -1622,6 +1650,7 @@ h2 {
   -ms-transform: rotate(111.7741935484deg);
   -webkit-transform: rotate(111.7741935484deg);
   transform: rotate(111.7741935484deg);
+  color:red;
 }
 .day-text .char86 {
   -moz-transform: rotate(114.6774193548deg);
@@ -1629,6 +1658,7 @@ h2 {
   -ms-transform: rotate(114.6774193548deg);
   -webkit-transform: rotate(114.6774193548deg);
   transform: rotate(114.6774193548deg);
+  color:red;
 }
 .day-text .char87 {
   -moz-transform: rotate(117.5806451613deg);
@@ -1643,6 +1673,7 @@ h2 {
   -ms-transform: rotate(120.4838709677deg);
   -webkit-transform: rotate(120.4838709677deg);
   transform: rotate(120.4838709677deg);
+  color:red;
 }
 .day-text .char89 {
   -moz-transform: rotate(123.3870967742deg);
@@ -1650,6 +1681,7 @@ h2 {
   -ms-transform: rotate(123.3870967742deg);
   -webkit-transform: rotate(123.3870967742deg);
   transform: rotate(123.3870967742deg);
+  color:red;
 }
 .day-text .char90 {
   -moz-transform: rotate(126.2903225806deg);
@@ -1664,6 +1696,7 @@ h2 {
   -ms-transform: rotate(129.1935483871deg);
   -webkit-transform: rotate(129.1935483871deg);
   transform: rotate(129.1935483871deg);
+  color:red;
 }
 .day-text .char92 {
   -moz-transform: rotate(132.0967741935deg);
@@ -1671,6 +1704,7 @@ h2 {
   -ms-transform: rotate(132.0967741935deg);
   -webkit-transform: rotate(132.0967741935deg);
   transform: rotate(132.0967741935deg);
+  color:red;
 }
 .day-text .char93 {
   -moz-transform: rotate(135deg);
