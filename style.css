@@ -1878,3 +1878,8 @@ h2 {
       transform: translate(10vw, 100vh);
   }
 }
+#licznik25{
+  text-align:center;
+  color:white;
+  margin-top:15%;
+}
