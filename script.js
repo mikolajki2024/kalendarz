@@ -94,7 +94,7 @@ $(function() {
 		dayNameColor = '#4CD964';
 	
 
-	// Rotate the selected ring the correct amount and illuminate the correct characters of the ring text
+	
 	function rotateRing(input, sections, characters, ring, text, color) {
 		var sectionWidth = range / sections;
 		var initialRotation = 135 - (sectionWidth / 2);
@@ -115,7 +115,7 @@ $(function() {
 		}		
 	}
 
-	// Get a new date object every second and update the rotation of the clock handles
+	
 	function clockRotation() {
 		setInterval(function() {
 			var date = new Date();
@@ -146,7 +146,7 @@ $(function() {
 		}, 1000);
 	}
 	
-	// Give column representing passed days and the current day this week a height
+	
 	function loadBars() {
 		for(var i = 1; i <= dayName; i++){
 			var newHeight = (Math.floor(Math.random() * 85) + 5);
@@ -170,15 +170,15 @@ $(function() {
 		$('.day-name-preview').fadeTo(10, 1);
 		$('.center-preview').fadeTo(10, 1);
 
-		// Get date variables
+		
 		date = new Date();
-		dayName = date.getDay(); // Day of week (1-7)
-		day = date.getDate(); // Get current date (1-31)
-		month = date.getMonth() + 1; // Current month (1-12)
+		dayName = date.getDay(); 
+		day = date.getDate(); 
+		month = date.getMonth() + 1; 
 		if (dayName == 0) {
 			dayName = 7;
 		}
-		// Fade in/out second dial and rotate. Also fade in and animate side elements.
+		
 		setTimeout(function() {
 			$('.day-preview').fadeTo(500, 0);
 			$('.day-text').fadeTo(500, 1, function() {
@@ -186,7 +186,7 @@ $(function() {
 			});
 		}, 500);
 
-		// Fade in/out second dial and rotate. Also fade in and animate side elements.
+		
 		setTimeout(function() {
 			$('.month-preview').fadeTo(500, 0);
 			$('.fa-cloud').fadeTo(500, 1);
@@ -198,7 +198,7 @@ $(function() {
 			});
 		}, 1000);
 
-		// Fade in/out first dial and rotate
+		
 		setTimeout(function() {
 			$('.day-name-preview').fadeTo(500, 0);
 			$('.day-name-text').fadeTo(500, 1, function() {
@@ -206,17 +206,17 @@ $(function() {
 			});
 		}, 1500);
 
-		// Fade in/out center dial
+		
 		setTimeout(function() {
 			$('.center-preview').fadeTo(500, 0);
 			$('.head').fadeTo(500, 0);
 			$('.torso').fadeTo(500, 0);
 			$(".hand-container").fadeTo(500, 1, function() {
-				//console.log("Clock faded in");
+				
 			});
 		}, 2000);
 
-		// Begin clock rotation now it is visible
+		
 		clockRotation();
 	}
 
